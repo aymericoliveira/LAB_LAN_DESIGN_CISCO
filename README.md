@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-@"
+
 # Objectif du LAB
-=======
-# Objectif du lab
->>>>>>> a6677c7782c742e2167e88b236c740650a5fed0c
+
+
 Mise en place d'une architecture 2-Tiers sous Packet Tracer.
 
 Dans ce LAB, nous allons explorer les concepts suivants :
@@ -61,17 +59,10 @@ ACCESS3 f0/13         <-> TRANSPORT
 
 Le projet est composé des fichiers suivants :
 - **`README.md`** : Ce fichier, contenant des informations sur le projet
-<<<<<<< HEAD
-- **`configs/HSRP.txt`** : Exemple de configuration HSRP
-- **`configs/DHCP.txt`** : Configuration DHCP sur routeur Cisco
-- **`topologie/TP_LAN_Design`** : Fichier de topologie ou plan logique
--**``**: Fichier de test de haute de haute disponibilité 
-=======
+- **`TP_LAN_Design`** : Fichier de topologie ou plan logique
 - **`configs_HSRP`** : Exemple de configuration HSRP
 - **`configs_DHCP`** : Configuration DHCP sur routeur Cisco
-- **`TP_LAN_Design`** : Fichier de topologie ou plan logique
 - **`TEST_HAUTE_DISPONIBILITE`** : Fichier de test de haute de haute disponibilité 
->>>>>>> a6677c7782c742e2167e88b236c740650a5fed0c
 
 ## Licence
 
