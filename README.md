@@ -40,8 +40,8 @@ ACCESS3 f0/13         <-> TRANSPORT
 
 ## Déploiement
 
-- **VTP Domain** : `autoprod.lan`
-- **VTP Password** : `AUTOPROD-VTP-Key`
+- **VTP Domain** : EX `autoprod.lan`
+- **VTP Password** : EX   `AUTOPROD-VTP-Key`
 - **VLANs** :
   - VLAN 1 : Default
   - VLAN 2 : ADMINISTRATION - 192.168.2.0/24 - ACCESSx f0/1-6
